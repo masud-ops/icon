@@ -1,0 +1,20 @@
+.icon {
+    padding: 8px;
+    margin: 22px;
+    background: #dfe7ee;
+    text-align: center;
+    display: block;
+}
+
+.icon i {
+    padding: 13px;
+    background: #1d87b7;
+    color: white;
+    border-radius: 100%;
+    margin-left: 26px;
+}
+
+.icon i:hover {
+    background: #ae0e0ee8;
+    color: white;
+}
